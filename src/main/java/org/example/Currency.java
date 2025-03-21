@@ -1,5 +1,11 @@
-import lombok.Data;
+package org.example;
 
+import lombok.Data;
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Setter
 @Data
 public class Currency {
     private String id;
