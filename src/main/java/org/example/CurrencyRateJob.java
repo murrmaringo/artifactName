@@ -1,4 +1,4 @@
-package org.example
+package org.example;
 
 import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
